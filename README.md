@@ -1,4 +1,4 @@
-# Cotizador de Medicamentos y Despacho / Juego de adivina el número.
+# Cotizador de medicamentos y despacho / Juego de adivina el número.
 
 Estos dos son script interactivo en Python desarrollado para calcular el costo total de medicamentos y despacho, aplicando descuentos específicos basados en la edad y el tramo de salud del usuario (A, B, C o D).
 Mientras que el otro es un juego de adivinar un número entre un rango establecido por el usuario.
